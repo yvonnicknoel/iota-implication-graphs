@@ -1,0 +1,32 @@
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Data (not redistributed; obtain from EGAnet — see README)
+*.csv
+
+# LaTeX/TikZ build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.run.xml
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Output figures
+figures/
+*.pdf
+!tikz/*.pdf
