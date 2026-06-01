@@ -2,7 +2,7 @@
 
 Reproducibility code for the paper:
 
-> Noel, Y. (2026). On dimensional implication graphs. Psychometrika, 1–29. doi:10.1017/psy.2026.10123
+> Noel, Y. (2026). On dimensional implication graphs. *Psychometrika*, 1–29. doi:10.1017/psy.2026.10123
 
 This repository contains the R code and TikZ source needed to reproduce the
 empirical illustration of the paper (the analysis of the Inductive Reasoning
