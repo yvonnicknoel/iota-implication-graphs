@@ -107,7 +107,8 @@ If you use this code, please cite:
   title   = {On dimensional implication graphs},
   journal = {Psychometrika},
   year    = {2026},
-  note    = {Under review}
+  doi     = {doi:10.1017/psy.2026.10123}
+  note    = {Accepted}
 }
 ```
 
